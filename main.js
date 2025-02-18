@@ -168,7 +168,7 @@ const newAgent = (proxy = null) => {
 
 // Enhanced LayerEdge Connection Class
 class LayerEdgeConnection {
-    constructor(proxy = null, privateKey = null, refCode = "knYyWnsE") {
+    constructor(proxy = null, privateKey = null, refCode = "QmmcVmes") {
         this.refCode = refCode;
         this.proxy = proxy;
         this.retryCount = 30;
